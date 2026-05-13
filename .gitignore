@@ -1,0 +1,6 @@
+# Docker volumes
+db_data
+wordpress_data
+
+# Temporary files
+*.log
